@@ -27,4 +27,4 @@ To run the project locally, follow these steps:
 ## 🔗 Google Colab
 You can run this project on Google Colab without installation:  
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_NOTEBOOK_LINK_HERE)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gIvlhxHNfOkNrraFfUXXJcIZsmW4GMJE)
