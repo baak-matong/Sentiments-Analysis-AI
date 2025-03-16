@@ -22,3 +22,9 @@ To run the project locally, follow these steps:
    ```sh
    git clone https://github.com/baak-matong/sentiment-analysis-imdb.git
    cd sentiment-analysis-imdb
+
+
+## 🔗 Google Colab
+You can run this project on Google Colab without installation:  
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_NOTEBOOK_LINK_HERE)
